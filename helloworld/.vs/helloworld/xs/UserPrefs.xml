@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{1A1FEDFA-1314-4422-BEB3-34E7245525DE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="helloworld/Program.cs">
     <Files>
-      <File FileName="helloworld/Program.cs" Line="24" Column="1" />
+      <File FileName="helloworld/Program.cs" Line="15" Column="9" />
       <File FileName="helloworld/helloworld.csproj" />
     </Files>
     <Pads>

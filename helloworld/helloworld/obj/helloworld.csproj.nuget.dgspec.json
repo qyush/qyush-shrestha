@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/qyushshrestha/Projects/helloworld/helloworld/helloworld.csproj": {}
+    "/Users/qyushshrestha/Documents/GitHub/qyush-shrestha/helloworld/helloworld/helloworld.csproj": {}
   },
   "projects": {
-    "/Users/qyushshrestha/Projects/helloworld/helloworld/helloworld.csproj": {
+    "/Users/qyushshrestha/Documents/GitHub/qyush-shrestha/helloworld/helloworld/helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/qyushshrestha/Projects/helloworld/helloworld/helloworld.csproj",
+        "projectUniqueName": "/Users/qyushshrestha/Documents/GitHub/qyush-shrestha/helloworld/helloworld/helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "/Users/qyushshrestha/Projects/helloworld/helloworld/helloworld.csproj",
+        "projectPath": "/Users/qyushshrestha/Documents/GitHub/qyush-shrestha/helloworld/helloworld/helloworld.csproj",
         "packagesPath": "/Users/qyushshrestha/.nuget/packages/",
-        "outputPath": "/Users/qyushshrestha/Projects/helloworld/helloworld/obj/",
+        "outputPath": "/Users/qyushshrestha/Documents/GitHub/qyush-shrestha/helloworld/helloworld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/qyushshrestha/.config/NuGet/NuGet.Config"
